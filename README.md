@@ -35,7 +35,7 @@ It is a progressive journey structured into several domains. While you can explo
 
 ---
 
-## 🚀 Get Started
+## 🚀 Get Started with Shin-Lap now!
 
 All materials are formatted for easy reading and are accessible online through GitHub Pages.
 
