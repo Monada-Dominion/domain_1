@@ -18,7 +18,7 @@ This repository houses the foundational materials for the **Monada Dominion** jo
 It is a progressive journey structured into several domains. While you can explore some parts out of order, the intended path is designed for a gradual unfolding of understanding.
 
 *   **🌀 Domain 1: The Dot - Mindfulness**
-    *   Essential preparation for the entire program.
+    *   Essential preparation for the entire MD system - Shin-Lap mindfulness program.
 
 *   **🧘‍♂️ Domain 2: The Line - Meditation** (<a href="https://github.com/Monada-Dominion/domain_2">Link</a>)
     *   Can be explored without preparation, but the need for theory from Domain 1 will emerge as you progress.
