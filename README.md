@@ -3,7 +3,6 @@
 <p align="center">
   <img src="https://img.shields.io/github/last-commit/monada-dominion/domain_1?style=for-the-badge" alt="GitHub last commit">
   <img src="https://img.shields.io/github/repo-size/monada-dominion/domain_1?style=for-the-badge" alt="GitHub repo size">
-  <img src="https://img.shields.io/github/license/monada-dominion/domain_1?style=for-the-badge" alt="License">
 </p>
 
 <p align="center">
