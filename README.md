@@ -1,4 +1,4 @@
-# 🌀 Domain 1: The Foundation
+# 🌀 Domain 1: The Dot
 
 <p align="center">
   <img src="https://img.shields.io/github/last-commit/monada-dominion/domain_1?style=for-the-badge" alt="GitHub last commit">
@@ -18,16 +18,16 @@ This repository houses the foundational materials for the **Monada Dominion** jo
 
 The Monada Dominion is a progressive journey structured into several domains. While you can explore some parts out of order, the intended path is designed for a gradual unfolding of understanding.
 
-*   **🌀 Domain 1: The Foundation (You are here)**
+*   **🌀 Domain 1: The Dot - Mindfulness**
     *   Essential preparation for the entire program.
 
-*   **🧘‍♂️ Domain 2: Meditation**
+*   **🧘‍♂️ Domain 2: The Line - Meditation**
     *   Can be explored without preparation, but the need for theory from Domain 1 will emerge as you progress.
 
-*   **🃏 Domain 3: Cards**
+*   **🃏 Domain 3: The Triangel - Cards**
     *   Will not fully reveal itself without completing Domains 1 and 2. However, it's always possible to create something new.
 
-*   **🔒 Domain 4: The Unseen**
+*   **🔒 Domain 4: The quadrangle - Algorithms**
     *   Not visible or available without the knowledge from all three preceding domains.
 
 > Further steps are obscured but can be opened on demand.
