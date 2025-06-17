@@ -9,24 +9,41 @@
             background-color: #ffffff;
             color: #000000;
             font-family: 'Courier New', Courier, monospace;
-            display: flex;
-            justify-content: center;
-            align-items: center;
-            height: 100vh;
             margin: 0;
-            text-align: center;
+            padding: 40px;
         }
-        .menu {
+        .menu ul {
             list-style: none;
             padding: 0;
+            margin: 0;
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+            gap: 20px;
         }
         .menu li {
-            margin: 20px 0;
+            background-color: #ffdddd; /* Slightly red background for the card */
+            border-radius: 8px;
+            padding: 10px; /* Space between card edge and white text section */
+            box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+            transition: transform 0.2s ease-in-out;
+            display: flex;
+        }
+        .menu li:hover {
+            transform: translateY(-5px);
         }
         .menu a {
+            background-color: #ffffff; /* White section for text */
             color: #000000;
             text-decoration: none;
             font-size: 1.2em;
+            padding: 20px;
+            border-radius: 5px;
+            width: 100%;
+            text-align: center;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            min-height: 100px;
         }
         .menu a:hover {
             color: #ff0000;
