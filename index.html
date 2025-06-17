@@ -6,11 +6,11 @@
     <title>domain_1</title>
     <style>
         body {
-            background-color: #ffffff;
-            color: #000000;
+            background-color: #f0f0f0;
             font-family: 'Courier New', Courier, monospace;
             margin: 0;
             padding: 40px;
+            color: #000;
         }
         .menu ul {
             list-style: none;
@@ -20,43 +20,85 @@
             grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
             gap: 20px;
         }
-        .menu li {
-            background-color: #ffdddd; /* Slightly red background for the card */
-            border-radius: 8px;
-            padding: 10px; /* Space between card edge and white text section */
-            box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
-            transition: transform 0.2s ease-in-out;
-            display: flex;
-        }
-        .menu li:hover {
-            transform: translateY(-5px);
-        }
         .menu a {
-            background-color: #ffffff; /* White section for text */
-            color: #000000;
-            text-decoration: none;
-            font-size: 1.2em;
-            padding: 20px;
-            border-radius: 5px;
-            width: 100%;
-            text-align: center;
             display: flex;
-            justify-content: center;
-            align-items: center;
-            min-height: 100px;
+            flex-direction: column;
+            background-color: #fff;
+            border: 1px solid #ddd;
+            border-radius: 10px;
+            text-decoration: none;
+            color: #000;
+            overflow: hidden;
+            box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+            transition: transform 0.2s ease-in-out, box-shadow 0.2s ease-in-out;
+            height: 100%;
         }
         .menu a:hover {
-            color: #ff0000;
+            transform: translateY(-5px);
+            box-shadow: 0 8px 16px rgba(0,0,0,0.2);
+        }
+        .card-image {
+            background-color: #000;
+            height: 150px;
+            width: 100%;
+        }
+        .card-content {
+            padding: 15px;
+            display: flex;
+            flex-direction: column;
+            flex-grow: 1;
+        }
+        .card-title {
+            margin: 0 0 10px 0;
+            font-size: 1.4em;
+            font-weight: bold;
+        }
+        .card-text {
+            margin: 0;
+            font-size: 1em;
+            line-height: 1.4;
         }
     </style>
 </head>
 <body>
     <nav class="menu">
         <ul>
-            <li><a href="initial-theory.html">aspect_1_1_1 - Theory: Easy to be Biased, Difficult to be Critical, Unveiling Genuine Critical Thinking</a></li>
-            <li><a href="practice.html">aspect_1_1_2 - Practice: List Your Identities, Meditation of Memories: Unveiling the Depths of Experience</a></li>
-            <li><a href="reflective-questions.html">aspect_1_1_3 - Reflective questions</a></li>
-            <li><a href="new-theory.html">aspect_1_1_4 - Theory: False personalities and the true self</a></li>
+            <li>
+                <a href="initial-theory.html">
+                    <div class="card-image"></div>
+                    <div class="card-content">
+                        <h3 class="card-title">aspect_1_1_1</h3>
+                        <p class="card-text">Theory: Easy to be Biased, Difficult to be Critical, Unveiling Genuine Critical Thinking</p>
+                    </div>
+                </a>
+            </li>
+            <li>
+                <a href="practice.html">
+                    <div class="card-image"></div>
+                    <div class="card-content">
+                        <h3 class="card-title">aspect_1_1_2</h3>
+                        <p class="card-text">Practice: List Your Identities, Meditation of Memories: Unveiling the Depths of Experience</p>
+                    </div>
+                </a>
+            </li>
+            <li>
+                <a href="reflective-questions.html">
+                    <div class="card-image"></div>
+                    <div class="card-content">
+                        <h3 class="card-title">aspect_1_1_3</h3>
+                        <p class="card-text">Reflective questions</p>
+                    </div>
+                </a>
+            </li>
+            <li>
+                <a href="new-theory.html">
+                    <div class="card-image"></div>
+                    <div class="card-content">
+                        <h3 class="card-title">aspect_1_1_4</h3>
+                        <p class="card-text">Theory: False personalities and the true self</p>
+                    </div>
+                </a>
+            </li>
         </ul>
     </nav>
 </body>
