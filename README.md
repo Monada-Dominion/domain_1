@@ -14,7 +14,7 @@
 
 This repository houses the foundational materials for the **Monada Dominion** journey. Its purpose is to prepare your mind, brain, general perception, and perspective, which is crucial for engaging with the subsequent components of the program.
 
-## 🗺️ The Program Structure
+## 🗺️ Initial domains of Moanda Dominion
 
 The Monada Dominion is a progressive journey structured into several domains. While you can explore some parts out of order, the intended path is designed for a gradual unfolding of understanding.
 
@@ -30,9 +30,9 @@ The Monada Dominion is a progressive journey structured into several domains. Wh
 *   **🔒 Domain 4: The quadrangle - Algorithms**
     *   Not visible or available without the knowledge from all three preceding domains.
 
-> Further steps are obscured but can be opened on demand.
+> Further steps are obscured but can be opened on demand. All currently available domains: (<a href="https://github.com/Monada-Dominion/domain_3">Link</a>)
 
-**All currently available domains:** (<a href="https://github.com/Monada-Dominion/domain_3">Link</a>)
+
 
 ---
 
