@@ -6,12 +6,12 @@
 </p>
 
 <p align="center">
-  <em>The first module of the Shin-Lap self-transformative program.</em>
+  <em>Shin-Lap self-transformative program.</em>
 </p>
 
 ---
 
-This repository houses the foundational materials for the **Monada Dominion** journey. Its purpose is to prepare your mind, brain, general perception, and perspective, which is crucial for engaging with the subsequent components of the program.
+This repository houses the foundational materials for the **Monada Dominion** journey. Its purpose is to prepare your mind, brain, general perception, and perspective, which is crucial for engaging with the subsequent components of the system.
 
 ## 🗺️ Initial domains of Moanda Dominion
 
