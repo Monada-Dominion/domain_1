@@ -16,7 +16,7 @@ This repository houses the foundational materials for the **Monada Dominion** jo
 
 ## 🗺️ Initial domains of Moanda Dominion
 
-The Monada Dominion is a progressive journey structured into several domains. While you can explore some parts out of order, the intended path is designed for a gradual unfolding of understanding.
+It is a progressive journey structured into several domains. While you can explore some parts out of order, the intended path is designed for a gradual unfolding of understanding.
 
 *   **🌀 Domain 1: The Dot - Mindfulness**
     *   Essential preparation for the entire program.
