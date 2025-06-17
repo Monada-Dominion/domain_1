@@ -21,16 +21,18 @@ The Monada Dominion is a progressive journey structured into several domains. Wh
 *   **🌀 Domain 1: The Dot - Mindfulness**
     *   Essential preparation for the entire program.
 
-*   **🧘‍♂️ Domain 2: The Line - Meditation**
+*   **🧘‍♂️ <a href="https://github.com/Monada-Dominion/domain_2">Domain 2: The Line - Meditation</a>**
     *   Can be explored without preparation, but the need for theory from Domain 1 will emerge as you progress.
 
-*   **🃏 Domain 3: The Triangel - Cards**
+*   **🃏 <a href="https://github.com/Monada-Dominion/domain_3">Domain 3: The Triangel - Cards</a>**
     *   Will not fully reveal itself without completing Domains 1 and 2. However, it's always possible to create something new.
 
 *   **🔒 Domain 4: The quadrangle - Algorithms**
     *   Not visible or available without the knowledge from all three preceding domains.
 
 > Further steps are obscured but can be opened on demand.
+
+**<a href="https://github.com/Monada-Dominion/domain_3">Link to all currently available domains</a>**
 
 ---
 
