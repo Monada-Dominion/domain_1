@@ -13,7 +13,7 @@
 
 This repository houses the foundational materials for the **Monada Dominion** journey. Its purpose is to prepare your mind, brain, general perception, and perspective, which is crucial for engaging with the subsequent components of the system.
 
-## 🗺️ Initial domains of Moanda Dominion
+## 🗺️ Initial domains of Monada Dominion
 
 It is a progressive journey structured into several domains. While you can explore some parts out of order, the intended path is designed for a gradual unfolding of understanding.
 
