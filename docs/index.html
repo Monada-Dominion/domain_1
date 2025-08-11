@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>domain_1</title>
+    <link rel="stylesheet" href="assets/css/index.css">
+    <meta name="robots" content="index,follow">
+    <meta name="description" content="domain_1 cards">
+    <link rel="icon" href="data:,">
+    <meta http-equiv="Cache-Control" content="no-cache, no-store, must-revalidate" />
+    <meta http-equiv="Pragma" content="no-cache" />
+    <meta http-equiv="Expires" content="0" />
+</head>
+<body>
+    <div class="card-container" id="card-container"></div>
+    <script>
+    // Card configuration: file, images, target page.
+    // Preferred: edit assets/md/cards.json. Fallback below is used if JSON is missing.
+    let cards = [
+        { file: 'aspect_1_1_1', images: ['1.jpg','1.jpg','1.jpg'], page: 'initial-theory.html' },
+        { file: 'aspect_1_1_2', images: ['1.jpg','1.jpg','2.jpg'], page: 'practice.html' },
+        { file: 'aspect_1_1_3', images: ['1.jpg','1.jpg','3.jpg'], page: 'reflective-questions.html' },
+        { file: 'aspect_1_1_4', images: ['1.jpg','1.jpg','4.jpg'], page: 'new-theory.html' }
+    ];
+
+    function createCard(card, title, description) {
+        const a = document.createElement('a');
+        a.href = card.page;
+        a.className = 'card';
+        a.innerHTML = `
+            <div class="card-image-container">
+                <div class="images-wrapper">
+                    ${card.images.map(img => `<img src=\"assets/images/${img}\" alt=\"image\">`).join('')}
+                </div>
+            </div>
+            <div class="card-text">
+                <div class="text-wrapper">
+                    <div class="card-title">${title}</div>
+                    <div class="card-description">${description}</div>
+                </div>
+            </div>
+        `;
+        return a;
+    }
+
+    async function loadCards() {
+        const container = document.getElementById('card-container');
+        // Try to load external manifest if available
+        try {
+            const cfg = await fetch('assets/md/cards.json', { cache: 'no-store' });
+            if (cfg.ok) {
+                const json = await cfg.json();
+                if (Array.isArray(json) && json.length) {
+                    cards = json;
+                }
+            }
+        } catch (_) { /* ignore and use fallback */ }
+        for (const card of cards) {
+            try {
+                const resp = await fetch(`assets/md/${card.file}.md`, { cache: 'no-store' });
+                const text = await resp.text();
+                const lines = text.split('\n');
+                let title = lines[0] || card.file;
+                title = title.replace(/^#+\s*/, '');
+                const description = lines[1] || '';
+                container.appendChild(createCard(card, title, description));
+            } catch (e) {
+                container.appendChild(createCard(card, card.file, ''));
+            }
+        }
+    }
+    loadCards();
+    </script>
+    
+</body>
+</html>

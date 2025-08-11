@@ -54,3 +54,9 @@ Found a typo or have a suggestion? Contributions are welcome! Please feel free t
 ## 📄 License
 
 This project is open-source. See the [LICENSE](LICENSE) file for more details.
+
+---
+
+Site structure is served from the `docs/` folder (GitHub Pages). To add or update cards:
+- Edit `docs/assets/md/*.md` files (first line is title, second line is short description).
+- Update `docs/assets/md/cards.json` to add, remove, or reorder cards (images reference files in `docs/assets/images/`).

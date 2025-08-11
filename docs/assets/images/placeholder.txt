@@ -1,0 +1,1 @@
+Images are copied from ../images manually or via a build step.

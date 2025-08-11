@@ -1,14 +1,12 @@
-Theory:
+# False personalities and the true self
 
 The second aspect of the initial module commences with the following question, or rather, thesis:
 
-False personalities and the true self. 
+**False personalities and the true self.**
 
 Seek a "group of individuals" interested in self-improvement and striving for perfection.
 
-Imagine it as having many "I's" inside a circle. Select some of them. 
-
-
+Imagine it as having many "I's" inside a circle. Select some of them.
 
 This theme builds upon the foundation laid by the first aspect, which revolves around self-observation and understanding our roles. Its purpose is to assist in shedding false personalities that drain energy, consume time, and hinder the realization of our true level of being.
 
@@ -24,7 +22,7 @@ Until we cultivate a clear and stable understanding of ourselves and our "I," un
 
 In practice, tools will be provided to scrutinize internal processes in detail and observe how desires are activated and switched. The objective is to differentiate between essential and personal desires, further categorizing them into genuine and false. Genuine desires stem from the true "I," while false ones arise from inert, mechanistically formed personalities. Consequently, our collective presence comprises diverse elements, and the task of dividing it, akin to dividing attention, becomes crucial. This work is aimed at discerning what is genuinely significant, what will nourish us and lead to positive outcomes, and what will drain energy and steer us in the wrong direction.
 
-Illuminate the stage, putting the spotlight on the vibrant personalities taking their place. The True Self takes command of this radiant spotlight.
+Illuminate the stage, putting the spotlight on the vibrant personalities taking their place. The **True Self** takes command of this radiant spotlight.
 
 Envision your attention as a source, a spotlight illuminating the stage. When this spotlight shines on a personality or any behavioral program, it comes to life, stepping into the limelight. How does this unfold? What is the mechanism behind the spotlight, and who holds the reins of control?
 
@@ -34,7 +32,6 @@ Through self-work, including engagement with the SHIN-LAP program, the goal is t
 
 Understanding oneself thoroughly becomes crucial—comprehending one's depth, recognizing the nature of requests and desires. Learning to sense oneself unlocks latent superpowers, innate qualities at a heightened level of Being. This newfound awareness allows us to acknowledge and wield attention consciously, directing it purposefully. In doing so, we channel only those aspects of ourselves that are beneficial, necessary for our growth, and apt for the situation. However, laying the foundation for this conscious direction requires the establishment of the center of the true Self or the magnetic center.
 
-
 Why is it crucial to manage the spotlight of our attention? Uncontrolled shifting of focus between different aspects of our personalities leads to a state akin to sleep.
 
 The spotlight represents our attention. When we allow it to roam freely, we become mentally lethargic. Our attention becomes subject to automatic behaviors, fleeting desires, and the superficial allure of the world around us. These distractions are often inconsequential to our true selves and can hinder our progress. Consequently, we waste time, expend unnecessary energy, and forfeit the fruits of our prior focused efforts.
@@ -43,7 +40,7 @@ Ordinary consciousness resembles a slumbering state. Events unfold without our c
 
 In light of the above, it is important to delve deeper than the surface level of roles we play and external reactions we exhibit. It is essential to observe what lies beneath these manifestations, what prompts specific roles and automatic behaviors. The purpose of this introspective work is twofold: to engage in the process itself and to cultivate a heightened sense of attention. To aid in this endeavor, the following exercises are provided.
 
-Next thesis:
+**Next thesis:**
 
 The desires and states of our false personalities are mere illusions.
 
@@ -57,7 +54,7 @@ In essence, we have no right to yearn for nonexistent things, as our foremost re
 
 Hence, it is of utmost importance to diligently work with our attention and undergo personal transformation.
 
-What is attention? Engage in an exercise involving cards and circles: draw, listen, watch, remember, and feel simultaneously.
+**What is attention?** Engage in an exercise involving cards and circles: draw, listen, watch, remember, and feel simultaneously.
 
 This proposition highlights the importance of completing the exercise, which aims to deepen our understanding of attention's function, both in terms of sensory perception and intellectual comprehension.
 
@@ -71,7 +68,7 @@ One person will present the cards and verbally state their contents, whether it'
 
 During this endeavor, attempt to discern the sensations that arise within you as you concentrate on multiple activities. What kind of tension manifests? How does it feel? Where does it originate from? With enough effort, you can perceive the workings of your attention. Remember this state—it will facilitate more effective engagement with attention in the future.
 
-To discern your essential desires from those that operate mechanically, it is crucial to develop the ability to track their progression from their origin to their manifested actions.
+**To discern your essential desires from those that operate mechanically**, it is crucial to develop the ability to track their progression from their origin to their manifested actions.
 
 In essence, genuine desires are the aspirations of your true "I" and should be intimately connected to the fulfillment of your life's purpose. These desires can only be realized and actualized through inner work. Self-understanding and self-observation play key roles in this process. By studying ourselves and our inner structure, we gain insight into our authentic selves, which holds the key to understanding our true desires.
 
@@ -81,10 +78,10 @@ Within each of us, there exists a group of personalities or manifestations that 
 
 Only through dedicated practice can we learn to recognize when we are in a state of sleep or acting mechanically, and when we are guided by a conscious, free, and purposeful will. Engage in the exercises provided in the practice section, observing yourself closely. Formulate your observations as you did in the previous exercise from Aspect No. 1. This process will enable you to draw conclusions about the nature of desires and gain a deeper understanding of your inner workings.
 
-Revaluation of values - to identify those states that are valuable and identify those that are harmful.
+**Revaluation of values** — identify those states that are valuable and those that are harmful.
 
 The reevaluation of values involves identifying states that are valuable and recognizing those that are harmful. Upon completing this aspect, it is crucial to engage in critical self-reflection and reassess your values and lifestyle. Through observation, you can identify the manifestations that consume your time and energy. These may include small reactions, thoughts, emotions, as well as significant roles that we unconsciously assume in various situations. It is important to let go of these reactions and roles and make a resolute decision to continue moving towards the core of your being.
 
 It's important to acknowledge that these attempts and their descriptions at this stage may appear naive and presumptuous. It is impossible to fully verify the correctness of the chosen path and the algorithm of actions. However, there is no alternative but to follow it and continue the inner work. Reevaluating values is an integral part of this process, which involves revising one's life and elevating the desire for personal growth and self-understanding to the highest level of the value hierarchy. What does this entail? What does it mean? At this point, we may not have clear answers to these questions. However, we can and should explore our own ways of identifying criteria for meaningful work and self-evaluation. This exploration may provide us with an opportunity to gain understanding.
 
-Through your observations, you should have already identified at least one harmful action, program, or behavior in your life. However, in reality, there may be many more. It is important to let go of these harmful patterns and replace them with something better and more perfect. This process of letting go and transformation is essential for personal growth and the pursuit of a more fulfilling life.	
+Through your observations, you should have already identified at least one harmful action, program, or behavior in your life. However, in reality, there may be many more. It is important to let go of these harmful patterns and replace them with something better and more perfect. This process of letting go and transformation is essential for personal growth and the pursuit of a more fulfilling life.
